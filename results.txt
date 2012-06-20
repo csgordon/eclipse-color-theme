@@ -1,0 +1,12 @@
+Eclipse Color Theme
+https://github.com/eclipse-color-theme/eclipse-color-theme
+http://www.eclipsecolorthemes.org/
+
+Cloning the github repo on 6/6/12, 2:40pm pacific
+
+Initially 56 errors.
+
+Marked the ColorThemePreferencePage @UIType: 11.
+Marked a couple Listener handleEvent methods @UIEffect: 0.
+
+Total time: 8 minutes.
