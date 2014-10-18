@@ -41,7 +41,7 @@ import org.eclipse.ui.PlatformUI;
 import com.github.eclipsecolortheme.Activator;
 import com.github.eclipsecolortheme.ColorTheme;
 import com.github.eclipsecolortheme.ColorThemeManager;
-import guitypes.checkers.quals.*;
+import org.checkerframework.checker.guieffect.qual.*;
 /** The preference page for managing color themes. */
 @UIType public class ColorThemePreferencePage extends PreferencePage
                                       implements IWorkbenchPreferencePage {
